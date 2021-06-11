@@ -1,0 +1,19 @@
+{
+  "name": "handlebars-nodejs",
+  "version": "1.0.0",
+  "description": "handlebars description",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Shalini",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "parse": "^2.14.0"
+  }
+}
